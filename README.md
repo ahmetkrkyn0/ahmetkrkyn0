@@ -20,17 +20,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetkarakoyun&show_icons=true&theme=tokyonight" alt="Ahmet's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkarakoyun&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Contact Me
 
