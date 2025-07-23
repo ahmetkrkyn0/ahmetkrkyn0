@@ -4,7 +4,7 @@
 # 👋 Hey there, I'm Ahmet Karakoyun
 
 🎓 I'm a 3rd-year Software Engineering student based in Turkey.  
-💡 Passionate about **Artificial Intelligence**, **Cybersecurity**, and **Mobile App Security**.  
+💡 Passionate about **Artificial Intelligence** and modern software development.  
 💻 Experienced with **Java**, **Python**, and **C/C++**.  
 🚀 Continuously learning and building projects to grow my skill set.
 
@@ -18,8 +18,15 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
+## 📊 Weekly Commit Stats
+
+<!-- You can also adjust the range to monthly or yearly using the plugin -->
+![GitHub Streak](https://streak-stats.demolab.com?user=ahmetkrkyn0&theme=tokyonight&hide_border=false)
+
+---
 
 ## 📫 Contact Me
 
@@ -30,13 +37,7 @@
 
 ## 🎯 Goals for 2025
 
-- [ ] Contribute to open-source AI/security projects  
-- [ ] Develop my own AI-based tool  
-- [ ] Build a secure mobile app using Spring Boot & React Native  
-- [ ] Write blog posts about cybersecurity and clean code  
-
----
-
-> 💬 “Code is more than instructions — it’s a way of thinking, solving, and growing.”
-
----
+- [ ] Contribute to open-source AI projects  
+- [ ] Develop my own AI-based application  
+- [ ] Build a full-stack project using Spring Boot & React  
+- [ ] Share my learning journey and tips via blog posts  
