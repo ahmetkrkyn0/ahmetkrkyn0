@@ -21,10 +21,9 @@
 
 ---
 
-## 📊 Weekly Commit Stats
+## 📊 Weekly Commit Activity
 
-<!-- You can also adjust the range to monthly or yearly using the plugin -->
-![GitHub Streak](https://streak-stats.demolab.com?user=ahmetkrkyn0&theme=tokyonight&hide_border=false)
+![Ahmet's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmetkrkyn0&theme=tokyo-night)
 
 ---
 
