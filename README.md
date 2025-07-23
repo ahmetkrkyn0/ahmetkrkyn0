@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 Weekly Commit Activity
+## 📊 Monthly Commit Activity
 
 ![Ahmet's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmetkrkyn0&theme=tokyo-night)
 
