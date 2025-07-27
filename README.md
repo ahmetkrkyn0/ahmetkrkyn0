@@ -22,6 +22,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
+---
+
+# 📊 My GitHub Stats
+
+[![ahmetkrkyn0's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetkrkyn0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
