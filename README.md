@@ -24,10 +24,8 @@
 </p>
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkrkyn0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 Monthly Commit Activity
-
-![Ahmet's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmetkrkyn0&theme=tokyo-night)
 
 ---
 
