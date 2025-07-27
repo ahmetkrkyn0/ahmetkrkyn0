@@ -24,7 +24,7 @@
 </p>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkrkyn0&layout=compact&langs_count=6&hide=html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Languages](https://github.com/ahmetkrkyn0/ahmetkarakoyun/blob/main/github-metrics.svg)
 
 
 ---
