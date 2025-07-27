@@ -23,10 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkrkyn0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 📫 Contact Me
 
