@@ -25,10 +25,6 @@
 
 ---
 
-![ahmetkrkyn0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetkrkyn0&show_icons=true&theme=quiet)
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: ahmetkrkyn0@gmail.com  
