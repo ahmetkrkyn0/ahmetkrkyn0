@@ -26,10 +26,7 @@
 
 # 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetkrkyn0&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="ahmetkrkyn0's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkrkyn0&layout=compact&theme=nord&hide_border=true" alt="Top Languages"/>
-</p>
+![ahmetkrkyn0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetkrkyn0&show_icons=true&theme=default&count_private=true)
 ---
 
 ## 📫 Contact Me
