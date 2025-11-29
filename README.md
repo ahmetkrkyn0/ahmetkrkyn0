@@ -22,11 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
----
-
-# 📊 My GitHub Stats
-
-![ahmetkrkyn0's GitHub Streak](https://github-readme-streak.vercel.app/?user=ahmetkrkyn0&theme=dark&hide_border=true)
 
 ---
 
