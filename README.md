@@ -26,7 +26,7 @@
 
 # 📊 My GitHub Stats
 
-![ahmetkrkyn0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetkrkyn0&show_icons=true&theme=default&count_private=true)
+![ahmetkrkyn0's GitHub Streak](https://github-readme-streak.vercel.app/?user=ahmetkrkyn0&theme=dark&hide_border=true)
 ---
 
 ## 📫 Contact Me
