@@ -32,9 +32,17 @@
 
 ---
 
-## 🎯 Goals for 2025
+## 📊 GitHub Stats
 
-- [ ] Contribute to open-source AI projects  
-- [ ] Develop my own AI-based application  
-- [ ] Build a full-stack project using Spring Boot & React  
-- [ ] Share my learning journey and tips via blog posts  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetkrkyn0&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkrkyn0&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmetkrkyn0&theme=tokyonight" alt="streak" />
+</p>
