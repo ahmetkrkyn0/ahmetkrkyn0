@@ -35,8 +35,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkrkyn0&layout=compact&theme=tokyonight&langs_count=6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmetkrkyn0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkrkyn0&layout=compact&langs_count=6&bg_color=000000&title_color=00BFFF&text_color=ffffff&border_color=00BFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmetkrkyn0&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=000000&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&border_color=00BFFF"/>
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmetkrkyn0&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmetkrkyn0&date_format=j%20M%5B%20Y%5D&background=000000&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
 
