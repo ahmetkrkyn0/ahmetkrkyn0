@@ -6,3 +6,8 @@
 </div>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetkrkyn0&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333" height="150"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetkrkyn0&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333" height="150"/>
+</p>
