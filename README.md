@@ -24,10 +24,6 @@
   
   <br/><br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetkrkyn0&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&border=333333" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahmetkrkyn0&layout=compact&bg_color=000000&title_color=ffffff&text_color=888888&border_color=333333" alt="Top Languages" />
 
 </div>
